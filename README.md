@@ -1,12 +1,8 @@
 - 🖖 Olá, eu sou o Vagner Santos
 - 👨‍💻 Trabalho como Assistente de TI
-- 🌱 Estou aprendendo JavaScript, Html e CSS
+- 🌱 Estou aprendendo JavaScript, Html, CSS e Python
 
-<div align="center">
-  <a href="https://github.com/vagnerdss2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnerdss2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerdss2&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
