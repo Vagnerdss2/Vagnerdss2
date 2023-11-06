@@ -1,6 +1,6 @@
 - 🖖 Olá, eu sou o Vagner Santos
 - 👨‍💻 Trabalho como Assistente de TI
-- 🌱 Estou aprendendo JavaScript, Html, CSS e Python
+- 🌱 Estou aprendendo Ciência de Dados
 
 
   
