@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vagner-CSS" height="30" width="40" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
+  <img align="center" alt="Vagner-CSS" height="40" width="40" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
  
 </div>
   <br>
