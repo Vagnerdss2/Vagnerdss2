@@ -1,6 +1,7 @@
 - 🖖 Olá, eu sou o Vagner Santos
 - 👨‍💻 Trabalho como Assistente de TI
-- 🌱 Estou aprendendo Ciência de Dados
+- 🌱 Estudante de Analise e desenvolvimento de sistemas
+
 
 
   
