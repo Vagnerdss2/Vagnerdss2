@@ -1,28 +1,24 @@
-- 🖖 Olá, eu sou o Vagner Santos
-- 👨‍💻 Trabalho como Assistente de TI
-- 🌱 Estudante de Analise e desenvolvimento de sistemas
+# 💫 About Me:
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação. Atualmente, estou aprendendo Python e Django para desenvolvimento web, com experiência em HTML. Tenho conhecimento em SQL e trabalhei com bancos de dados como Oracle e PostgreSQL. Também estou explorando o mundo da visualização de dados com Power BI.<br><br>Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia. Vamos colaborar?
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vagnersantos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vagnerdss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vagnerdss) 
 
-  
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Vagner-HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <img align="center" alt="Vagner-PY" height="40" width="60" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg">
- 
-</div>
-  <br>
- <div> 
- 
-  <a href="https://instagram.com/vagnerdss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:vagnerdss2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vagner-santos-69971b22a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vagnerdss2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vagnerdss2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerdss2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vagnerdss2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-| GitHub Stats | Most Used Languages |
-|:-------:|:----------:|
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vagnerdss2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) |![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vagnerdss2&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)|
+---
+[![](https://visitcount.itsvg.in/api?id=vagnerdss2&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
