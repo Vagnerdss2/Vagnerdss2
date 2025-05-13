@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ### Olá! 👋
 
 Meu nome é Vagner da Silva Santos e sou um Assistente de TI apaixonado por análise de dados.
