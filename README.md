@@ -1,9 +1,49 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação. Atualmente, estou aprendendo Python e Django para desenvolvimento web, com experiência em HTML. Tenho conhecimento em SQL e trabalhei com bancos de dados como Oracle e PostgreSQL. Também estou explorando o mundo da visualização de dados com Power BI.<br><br>Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia. Vamos colaborar?
+### Olá! 👋
+
+Meu nome é Vagner da Silva Santos e sou um Assistente de TI apaixonado por análise de dados.
+
+---
+
+#### Sobre Mim
+
+* Sou um profissional de TI com foco em transformar dados em insights acionáveis.
+* Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aprofundando meus conhecimentos para me tornar um Analista de Dados. Estou estudando ativamente Pandas, Python, Streamlit e Dash.
+* Minha jornada envolve a busca constante por aprender e aplicar novas tecnologias para resolver problemas de negócios.
+
+---
+
+#### O que você encontrará por aqui
+
+* Projetos relacionados à análise de dados e visualização.
+* Meus aprendizados em Python e ferramentas de análise.
+* Talvez alguns projetos da minha faculdade de ADS.
+
+---
+
+#### Habilidades
+
+* **Análise de Dados:** SQL, Power BI, Pandas, Python, Streamlit, Dash
+* **Banco de Dados:** Oracle
+* **ETL:** Conhecimento em processos de Extração, Transformação e Carga de dados.
+
+---
+
+#### Contato
+
+Sinta-se à vontade para se conectar!
+
+* [LinkedIn](https://www.linkedin.com/in/vagnerdss/)
+* Email: [vagnerdss2@gmail.com](mailto:vagnerdss2@gmail.com)
+
+---
+
+Obrigado por visitar meu perfil! 😊
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vagnersantos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vagnerdss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vagnerdss) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vagnersantos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vagnerdss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vagnerdss)    https://www.flaticon.com/br/icone-gratis/gmail_2504727
+[[Email](https://www.flaticon.com/br/icone-gratis/gmail_2504727)](mailto:vagnerdss2@gmail.com)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
